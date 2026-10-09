@@ -47,20 +47,12 @@ A responsive personal portfolio website built using HTML and CSS and deployed us
 Learned how to deploy and update a static website using GitHub Pages at no hosting cost.
 
 
+## Live Website
 
-\## Live Website
+https://vigneshMatheshwaran.github.io/github-pages-task/
 
+## GitHub Repository
 
-
-Add the published GitHub Pages URL here.
-
-
-
-\## Repository
-
-
-
-Add the GitHub repository URL here.
-
+https://github.com/vigneshMatheshwaran/github-pages-task
 
 
